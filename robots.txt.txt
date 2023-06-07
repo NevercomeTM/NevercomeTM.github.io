@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /not-indexed.html
+
+Allow: /index
+Allow: /contact
+Allow: /about
